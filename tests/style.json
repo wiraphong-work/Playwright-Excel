@@ -1,0 +1,96 @@
+{
+  "col_style_product": [
+    {
+      "id": "No",
+      "width": 8
+    },
+    {
+      "id": "ID",
+      "width": 8
+    },
+    {
+      "id": "Title",
+      "width": 45
+    },
+    {
+      "id": "Price",
+      "width": 15
+    },
+    {
+      "id": "Description",
+      "width": 50
+    },
+    {
+      "id": "Category",
+      "width": 20
+    },
+    {
+      "id": "Image",
+      "width": 25
+    },
+    {
+      "id": "Rating",
+      "width": 10
+    },
+    {
+      "id": "Count",
+      "width": 10
+    }
+  ],
+  "col_header_product": [
+    { "name": "No", "filterButton": true },
+    { "name": "ID", "filterButton": true },
+    { "name": "Title", "filterButton": true },
+    { "name": "Price", "filterButton": true },
+    { "name": "Description", "filterButton": true },
+    { "name": "Category", "filterButton": true },
+    { "name": "Image", "filterButton": true },
+    { "name": "Rating", "filterButton": true },
+    { "name": "Count", "filterButton": true }
+  ],
+  "col_style_category": [
+    {
+      "id": "No",
+      "width": 8
+    },
+    {
+      "id": "Name",
+      "width": 20
+    }
+  ],
+
+  "col_header_category": [
+    { "name": "No", "filterButton": true },
+    { "name": "Title", "filterButton": true }
+  ],
+  "col_style_cart": [
+    {
+      "id": "No",
+      "width": 8,
+      "align": "center"
+    },
+    {
+      "id": "ID",
+      "width": 8
+    },
+    {
+      "id": "UserID",
+      "width": 15
+    },
+    {
+      "id": "Date",
+      "width": 30
+    },
+    {
+      "id": "Product",
+      "width": 50
+    }
+  ],
+  "col_header_cart": [
+    { "name": "No", "filterButton": true },
+    { "name": "ID", "filterButton": true },
+    { "name": "UserID", "filterButton": true },
+    { "name": "Date", "filterButton": true },
+    { "name": "Product", "filterButton": true }
+  ]
+}
